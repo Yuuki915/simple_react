@@ -1,7 +1,7 @@
 import "./App.css";
-import Card from "./card/Card";
-import CustomCard from "./card/CustomCard";
-import CardList from "./card/CardList";
+import Card from "./component/card/Card";
+import CustomCard from "./component/card/CustomCard";
+import CardList from "./component/card/CardList";
 
 const DUMMY_DATA = [
   { id: 1, name: "Mango", age: 5 },
